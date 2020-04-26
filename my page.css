@@ -1,0 +1,34 @@
+.header-logo{
+	text-align: center;
+	font-size:50px;
+	font-family:"Segoe Script";
+	color:#136FFF;
+	background-color:#FFFF77;
+	height:90px;
+}
+h3{
+	font-size:40px;
+	font-family: "Verdana"
+}
+#contents-item ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#contents-item li a{
+	display: block;
+	border: 1px solid #9F99A3;
+	background-color: #EEEEEE;
+	padding: 7px 10px;
+	text-decoration: none;
+	color: #333;
+	width: 150px;
+	margin: 10px 20px;
+	text-align: left;
+	font-size: 20px;
+}
+#contents-item li a:hover{
+	border:1px solid #8593A9;
+	background-color: #9EB7DD
+}
+file:///C:/Users/yudai/Desktop/My%20LiFe/my%20page.html
